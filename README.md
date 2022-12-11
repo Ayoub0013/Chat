@@ -1,16 +1,21 @@
-# chat
 
-A new Flutter project.
+# Chatez
 
-## Getting Started
+"Chatez" is a mobile application for android/iOS build in Flutter. It allows the user to chat with friends, call them and share stories.
+For now only messages UI is done, will be working on finishing by the end of this month.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [@Ayoub0013](https://www.github.com/Ayoub0013)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🚀 About Me
+I'm a mobile applications developper.
+
+
+## Screenshots
+
+Dark Mode             |  Light Mode
+:-------------------------:|:-------------------------:
+![Screenshot_2022-12-11-01-33-14-76](https://user-images.githubusercontent.com/45560694/206881087-6964da28-b9b3-49fc-940e-bd18e9dfbba5.jpg)  |  ![Screenshot_2022-12-11-01-38-22-51](https://user-images.githubusercontent.com/45560694/206881093-56268119-ac67-4ef1-85b6-771aed8fa2c8.jpg)
